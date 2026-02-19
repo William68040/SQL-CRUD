@@ -6,7 +6,7 @@ ORDER BY CompanyName ASC;
 
 -- Fråga 2 Ta fram kundnamn, adress och postort för alla kunder.
 SELECT ContactName, Address, PostalCode
-FROM Customers
+FROM Customers;
 
 
 -- Fråga 3 Ta fram adress, postort och kontaktperson för alla kunder i London.
